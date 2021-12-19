@@ -1,9 +1,12 @@
-.p2 {
-  font-family:  Helvetica, sans-serif;
+p2 {
+  font-weight:  bold;
 }
-p.thick {
-  font-weight: bold;
+p3 {
+  outline-style: double; color: slateblue
 }
-<h3>
-<h1 style="color:SlateBlue;">Your Mom</h1>
-<h1 style="border:2px SlateBlue;">Hello World</h1>
+h3 {
+    color: grey
+}
+a1{
+    font-family: Helvetica, sans-serif;
+}
