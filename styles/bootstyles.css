@@ -1,0 +1,29 @@
+p1, p2, p3, p4, p5{
+  font-weight:  lighter;
+}
+p1, p2, p3, p4, p5 {
+    color: white
+}
+a, h2, p1, p2, p3, p4, p5{
+    font-family: Helvetica, sans-serif;
+}
+
+
+.header{
+    top: 5px;
+    left: 5px
+    right: 5px;
+    height: 150px
+}
+.mainbody{
+    top: 114px;
+    bottom: 64px;
+    left: 114px;
+    right: 114px;   
+}
+.footer{
+    top: 5px;
+    left: 5px
+    right: 5px;
+    height: 100px
+}
